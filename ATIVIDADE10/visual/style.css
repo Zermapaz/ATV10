@@ -1,0 +1,40 @@
+body {
+	background-color:#f0f0f0;
+	font-family: 'Roboto', sans-
+	serif;
+	margin: 0;
+	padding: 0;
+	background-color:hsl(0, 0%, 0%);
+	}
+	
+	header {
+		text-align: center;
+		padding: 20 px 0;
+		background-color: hsl(0, 0%, 100%);
+		color: #ffffff;
+	}
+	
+    
+    #h2{
+
+        height: 3%;
+        color: chartreuse;   
+        text-align: center;
+        margin: 20;
+        padding: 20;
+        justify-content: center;
+    }
+ 
+#h3{
+    height: 3%;
+    color:#ffffff;   
+    text-align: center;
+    margin: 20;
+    padding: 20;
+    justify-content: center;
+}
+    #hr1{
+        color: chartreuse;
+    
+    }
+   
